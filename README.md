@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Parkminy0ng
+- 👋 Hi, I’m @Parkminy0ng!
 - 🏫 I'm currently majoring in Industrial Security at Chung-Ang University.
 - 👀 I’m interested in Programing, Web Publishing, Reverse Engineering and Ditigal Forensic.
 - 🌱 I’m currently learning Python, C, C++, Java, JavaScript, Assembly Language, and  I'm also learning Web Publishing, Reverse Engineering and Digital Forensic.
